@@ -14,9 +14,9 @@ https://debian-facile.org/doc:reseau:wpasupplicant
 
 **Equipment requirements**  
 
-    2x nodes with WiFi module
-    Wi-Fi «FreeWiFI»
-    Password "YourPassword"  
+   ⚡ **2x nodes with WiFi module*
+   ⚡ **Wi-Fi «FreeWiFI»*
+   ⚡ **Password "YourPassword"*  
 
 **To connect the Wi-Fi interface on each node and connect the nodes via the Wi-Fi network, you must perform the following steps:**  
 
